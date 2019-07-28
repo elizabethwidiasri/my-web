@@ -24,7 +24,6 @@ body, html {
     
     /* Text styles */
     text-align: center;
-
     background-image: url(https://www.freeimageslive.co.uk/files/images010/glimmering_tealights.jpg);
     background-size: cover;
     background-position: center;
@@ -34,9 +33,6 @@ body, html {
     background-attachment: fixed;
     
 }   
-
-    
-}
 
 .homepage img{
     text-align: center;
